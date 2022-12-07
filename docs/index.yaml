@@ -9,6 +9,6 @@ entries:
     name: mychart
     type: application
     urls:
-    - https://github.com/gdevinc/deployCAChart/mychart-0.1.0.tgz
+    - https://github.com/gdevinc/deployCAChart/docs/mychart-0.1.0.tgz
     version: 0.1.0
 generated: "2022-12-07T15:28:02.0952227+01:00"
